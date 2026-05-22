@@ -1,0 +1,37 @@
+//liga2
+-crear la carpeta liga2 -bien
+-crear la class Liga2 -bien
+-Intanciar la clase Liga2 -bien
+-crear las variables -bien
+-crear el metodo Contrar() -bien
+-crear el metodo Organizar() -bien
+
+//para contar las victorias y carreras de c/a team
+-crear metodo Conteo1(),Conteo2(),Conteo3()
+para cada secciones -bien
+-crear metodo ConteoFinal() para contar todos los resultados -bien
+
+//hay que organizar las posiciones
+//y luego colocar el metodo en el mostrar
+
+-crear el metodo Ordenar() -bien
+-luego tienes que orderar segun las seccio-bien
+-crear el metodo Reiniciar() -bien
+-crear el metodo ResultadoSeccion() -bien
+-crear el metodo ResultadoFinal() -bien
+
+-hacer un bluque para compretar 8 secciones -bien
+
+-crear el metodo que solo muestra resultado
+-crear el metodo MostrarResultado() -bien
+
+
+-------------------------------- clase Organizar -------------------
+crear una clase para ordenar los equipio con escritura
+-crear la clase Organizar -bien
+-crear las variables -bien
+-crear el metodo Entrada() -bien
+-crear el metodo Mostrar() -bien
+
+//arreglar la variable victoria y carrera
+-poner los if en la clase program -bien
