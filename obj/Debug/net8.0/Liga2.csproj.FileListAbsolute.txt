@@ -1,0 +1,29 @@
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\bin\Debug\net8.0\Liga2.exe
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\bin\Debug\net8.0\Liga2.deps.json
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\bin\Debug\net8.0\Liga2.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\bin\Debug\net8.0\Liga2.dll
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\bin\Debug\net8.0\Liga2.pdb
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\Liga2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\Liga2.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\Liga2.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\Liga2.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\Liga2.dll
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\refint\Liga2.dll
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\Liga2.pdb
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\Liga2.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\C#\Liga2\obj\Debug\net8.0\ref\Liga2.dll
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\Liga2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\Liga2.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\Liga2.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\Liga2.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\Liga2.dll
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\refint\Liga2.dll
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\Liga2.pdb
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\bin\Debug\net8.0\Liga2.exe
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\bin\Debug\net8.0\Liga2.deps.json
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\bin\Debug\net8.0\Liga2.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\bin\Debug\net8.0\Liga2.dll
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\bin\Debug\net8.0\Liga2.pdb
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\Liga2.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\ref\Liga2.dll
+C:\Users\PC\OneDrive\Escritorio\otras c#\Liga2\obj\Debug\net8.0\Liga2.sourcelink.json
